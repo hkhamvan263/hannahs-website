@@ -29,11 +29,11 @@ body {
   font-size: 17px;
 }
 .topnav a:hover {
-  background-color: #008B8B;
+  background-color: #F0F8FF;
   color: black;
 }
 .topnav a.active {
-  background-color: #ddd;
+  background-color: #008B8B;
   color: white;
 }
 .main{
