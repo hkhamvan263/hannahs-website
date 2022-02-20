@@ -87,6 +87,7 @@ body {
   background-color: coral;
   color: navy;
   text-align: center;
+  position: fixed;
 }
 .center {
   text-align: center;
