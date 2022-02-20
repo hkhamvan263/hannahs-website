@@ -18,6 +18,7 @@ body {
 }
 .topnav {
   overflow: hidden;
+  position: sticky;
   background-color: #333;
 }
 .topnav a {
