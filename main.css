@@ -54,3 +54,8 @@ body {
   color: white;
   text-align: center;
 }
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
+</style>
