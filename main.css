@@ -8,8 +8,8 @@ h2 {
     font-size: 55px;
     font-family: Arial, Helvetica, sans-serif;
   }
-p{
-    margin: 0;
+p {
+    margin: 1;
     font-family: Arial, Helvetica, sans-serif;
 }
 ul {
@@ -58,4 +58,3 @@ body {
   text-align: center;
   border: 3px solid green;
 }
-</style>
