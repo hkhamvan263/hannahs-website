@@ -1,2 +1,2 @@
 # hannahs-website
-This is my personal website
+This is all the code and files for my personal website.
