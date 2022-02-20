@@ -37,7 +37,7 @@ body {
     background-color: #ddd;
     color: black;
 }
-.topnav a.active {
+.navbar a:active {
     background-color: #045aaa;
     color: white;
 }
