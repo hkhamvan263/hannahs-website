@@ -29,7 +29,7 @@ body {
   font-size: 17px;
 }
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: ##008B8B;
   color: black;
 }
 .topnav a.active {
