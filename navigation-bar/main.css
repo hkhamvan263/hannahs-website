@@ -45,3 +45,7 @@ body {
     background-color: #045aaa;
     color: white;
 }
+footer {
+    padding: 14px 16px;
+    text-decoration: none;
+}
