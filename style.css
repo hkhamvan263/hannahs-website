@@ -83,11 +83,13 @@ body {
 .footer {
   left: 0;
   bottom: 0;
+  height: 100px;
   width: 100%;
+  overflow: hidden;
   background-color: coral;
   color: navy;
   text-align: center;
-  position: sticky;
+  position: absoulute;
 }
 .center {
   text-align: center;
