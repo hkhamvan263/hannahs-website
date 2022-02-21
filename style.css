@@ -87,7 +87,7 @@ body {
   background-color: coral;
   color: navy;
   text-align: center;
-  position: fixed;
+  position: sticky;
 }
 .center {
   text-align: center;
