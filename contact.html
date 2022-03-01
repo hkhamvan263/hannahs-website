@@ -61,15 +61,15 @@
         <div class="container">
             <form id="fcf-form-id" class="fcf-form-class" method="post" action="contactsubmission.php">
                 <label for="fname">First Name*</label>
-                <input type="text" id="fname" name="firstname" placeholder="Your first name..">
+                <input type="text" id="fname" name="firstname" placeholder="Your first name.." required>
                 <label for="lname">Last Name*</label>
-                <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
                 <label for="email">Email*</label>
-                <input type="text" id="email" name="emailaddress" placeholder="Your email address.."></textarea>
+                <input type="text" id="email" name="emailaddress" placeholder="Your email address.." required></textarea>
                 <label for="phone">Phone Number</label>
                 <input type="text" id="phone" name="phonenumber" placeholder="Your phone number.."></textarea>
                 <label for="country">Country*</label>
-                <select id="country" name="country">
+                <select id="country" name="country" required>
                     <option value=" "> </option>
                     <option value="afghanistan">Afghanistan</option>
                     <option value="albania">Albania</option>
@@ -130,7 +130,7 @@
                     <option value="zimbabwe">Zimbabwe</option>
                     <option value="unlisted">My country is not listed above</option>
                 </select>
-                <label for="subject">Subject*</label>
+                <label for="subject" required>Subject*</label>
                 <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
                 <a href="contact-submission-message.html">
                     <button>Submit Form</button>
@@ -140,7 +140,7 @@
     <p>*required</p>
     </div>
       <div class="footer">
-          <p>Author: Hannah K | © 2022 GitHub, In</p>
+          <p>Author: Hannah K</p>
       </div class="footer">
 </body>
 </html>
