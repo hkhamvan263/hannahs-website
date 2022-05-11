@@ -89,6 +89,7 @@ footer {
   text-align: center;
   position: fixed;
   height: 2.5rem;
+  margin: auto;
 }
 footer li {
    display: inline-block;
