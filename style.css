@@ -99,10 +99,3 @@ footer a {
 .center {
   text-align: center;
 }
-.page-container {
-  position: relative;
-  min-height: 100%;
-}
-.content-wrap {
-  padding-bottom: 2.5rem;
-}
