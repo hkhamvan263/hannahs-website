@@ -82,13 +82,13 @@ body {
 }
 .footer {
   left: 0;
-  bottom: 9;
+  bottom: 8;
   height: 100px;
   width: 100%;
   background-color: coral;
   color: navy;
   text-align: center;
-  position: fixed;
+  position: absolute;
 }
 .center {
   text-align: center;
