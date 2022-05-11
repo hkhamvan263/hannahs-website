@@ -82,14 +82,14 @@ body {
 }
 .footer {
   left: 0;
-  bottom: 4;
+  bottom: 6;
   height: 100px;
   width: 100%;
   background-color: coral;
   color: navy;
   text-align: center;
   overflow: hidden;
-  position: absolute;
+  position: bottom;
 }
 .center {
   text-align: center;
