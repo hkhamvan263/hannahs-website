@@ -82,10 +82,9 @@ body {
 }
 .footer {
   left: 0;
-  bottom: 10;
+  bottom: 4;
   height: 100px;
   width: 100%;
-  overflow: hidden;
   background-color: coral;
   color: navy;
   text-align: center;
