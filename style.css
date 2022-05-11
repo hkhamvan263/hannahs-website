@@ -82,14 +82,22 @@ body {
 }
 .footer {
   left: 0;
-  bottom: 10;
+  bottom: 0;
   height: 100px;
   width: 100%;
   background-color: coral;
   color: navy;
   text-align: center;
   position: fixed;
+  height: 2.5rem;
 }
 .center {
   text-align: center;
+}
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+.content-wrap {
+  padding-bottom: 2.5rem;
 }
