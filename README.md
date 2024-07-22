@@ -1,4 +1,4 @@
-# hannahkhamvan263-original-website
+# hannahkhamvan263-landing-page
 
 This is all the code and files for my personal website.
 
