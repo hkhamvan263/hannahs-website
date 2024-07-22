@@ -81,22 +81,6 @@ body {
   margin-top: 30px;
   height: 1500px;
 }
-footer {
-  left: 0;
-  bottom: 4;
-  width: 100%;
-  background-color: coral;
-  text-align: center;
-  position: fixed;
-  height: 2.5rem;
-}
-footer li {
-   display: inline-block;
-   margin: 8px;
-}
-footer a {
-   text-decoration: none;
-   color: navy;
 .center {
   text-align: center;
 }
