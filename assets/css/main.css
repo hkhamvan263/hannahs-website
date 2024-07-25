@@ -341,6 +341,11 @@ input, select, textarea {
 		border-bottom-color: #e6e6e6;
 	}
 
+	topnav {
+		overflow: hidden;
+		background-color: #808080;
+	}
+
 /* Row */
 
 	.row {
