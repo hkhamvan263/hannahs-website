@@ -341,9 +341,14 @@ input, select, textarea {
 		border-bottom-color: #e6e6e6;
 	}
 
-	topnav {
+	.topnav {
 		overflow: hidden;
 		background-color: #808080;
+	}
+
+	.topnav a {
+		float: left;
+		text-align: center;
 	}
 
 /* Row */
