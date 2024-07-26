@@ -1,11 +1,9 @@
-## landing-page
+# landing-page
 Hello everyone. This is the code to my landing page, my first project for Headstarter AI's Software Engineering Fellowship.
 
-
-### Webpage Template Used: Fractal by HTML5 UP
-#### html5up.net | @ajlkn
+## Webpage Template Used: Fractal by HTML5 UP
+### html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 A simple landing page template for showcasing mobile apps (although it'll definitely work
 for other stuff if you get rid of the phone :) Lightweight, fully responsive, and built on
@@ -20,7 +18,7 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-### Credits:
+## Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
