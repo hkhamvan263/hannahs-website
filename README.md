@@ -20,7 +20,7 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-Credits:
+### Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
