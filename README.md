@@ -2,7 +2,7 @@
 Hello everyone. This is the code to my landing page, my first project for Headstarter AI's Software Engineering Fellowship.
 
 
-### Website Template Used: Fractal by HTML5 UP
+### Webpage Template Used: Fractal by HTML5 UP
 #### html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
